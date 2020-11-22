@@ -1,4 +1,4 @@
-# erlang-ws-chat 
+# elixir-ws-chat 
 
 A work in progress...
 
